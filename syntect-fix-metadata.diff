@@ -1,0 +1,20 @@
+--- syntect-3.3.0/Cargo.toml	1970-01-01T00:00:00+00:00
++++ syntect-3.3.0/Cargo.toml	2020-01-16T20:29:16.728868+00:00
+@@ -62,7 +62,7 @@
+ optional = true
+ 
+ [dependencies.plist]
+-version = "0.4"
++version = "0.5"
+ 
+ [dependencies.regex-syntax]
+ version = "0.6"
+@@ -84,7 +84,7 @@
+ version = "0.4"
+ optional = true
+ [dev-dependencies.criterion]
+-version = "0.2"
++version = "0.3"
+ 
+ [dev-dependencies.getopts]
+ version = "0.2"
